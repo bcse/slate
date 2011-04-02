@@ -621,8 +621,7 @@ a:hover {
 	
 		background: rgb(64, 64, 64);
 		padding: 18px;
-		margin: 36px 18px 18px -36px;
-		left: 62px; /*72px - 10px;*/
+		margin: 36px 18px 18px;
 		width: 55px;
 		
 		-webkit-border-radius: 4.5px;

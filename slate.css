@@ -619,16 +619,11 @@ a:hover {
 
 	div.browse_button {
 	
-		margin-top: 36px;
-	
 		background: rgb(64, 64, 64);
 		padding: 18px;
-		margin: 18px;
+		margin: 36px 18px 18px -36px;
 		left: 62px; /*72px - 10px;*/
-		margin-left: -36px;
-		
-		/*margin-left: -9px;
-		margin-right: -9px;*/
+		width: 55px;
 		
 		-webkit-border-radius: 4.5px;
 		-webkit-box-shadow: 0px 0px 4.5px rgba(0, 0, 0, .25);
@@ -1778,12 +1773,6 @@ a:hover {
 			opacity: 1;
 			background: none !important;
 	
-		}
-		
-		div.AmiMenu.qual_menu tr td.q_shares {
-	
-			padding-bottom: 117px;
-			
 		}
 		
 		div.AmiMenu.share_menu {
